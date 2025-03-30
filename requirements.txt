@@ -1,6 +1,8 @@
-flask
-requests
+Flask
+gunicorn
+selenium
 beautifulsoup4
-python-telegram-bot
-pandas
 yfinance
+schedule
+aiohttp
+matplotlib
